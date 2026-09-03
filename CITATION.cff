@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite the paper below."
+title: "sim2real-csi: companion code and dataset for 'CSI Simulation: Why Additive Noise Fails and How to Fix It'"
+type: software
+authors:
+  - family-names: Bouferroum
+    given-names: Aymen
+    orcid: "https://orcid.org/0009-0002-9133-3152"
+    affiliation: "Inria Lille-Nord Europe"
+  - family-names: Alla
+    given-names: Ildi
+    orcid: "https://orcid.org/0009-0008-6290-6998"
+    affiliation: "University of Luxembourg"
+  - family-names: Lenders
+    given-names: Vincent
+    orcid: "https://orcid.org/0000-0002-2289-3722"
+    affiliation: "University of Luxembourg"
+  - family-names: Loscri
+    given-names: Valeria
+    orcid: "https://orcid.org/0000-0003-2558-1801"
+    affiliation: "Inria Lille-Nord Europe"
+license: AGPL-3.0-only
+repository-code: "https://github.com/aymenbouferroum/sim2real-csi"
+url: "https://arxiv.org/abs/2607.01882"
+keywords:
+  - channel state information
+  - CSI simulation
+  - Wi-Fi sensing
+  - sim-to-real transfer
+  - data augmentation
+  - receiver chain
+preferred-citation:
+  type: conference-paper
+  title: "CSI Simulation: Why Additive Noise Fails and How to Fix It"
+  authors:
+    - family-names: Bouferroum
+      given-names: Aymen
+      orcid: "https://orcid.org/0009-0002-9133-3152"
+    - family-names: Alla
+      given-names: Ildi
+      orcid: "https://orcid.org/0009-0008-6290-6998"
+    - family-names: Lenders
+      given-names: Vincent
+      orcid: "https://orcid.org/0000-0002-2289-3722"
+    - family-names: Loscri
+      given-names: Valeria
+      orcid: "https://orcid.org/0000-0003-2558-1801"
+  collection-title: "Proceedings of the 28th IEEE International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)"
+  year: 2026
+  notes: "arXiv:2607.01882"

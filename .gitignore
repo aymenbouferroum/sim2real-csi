@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+logs/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# External datasets downloaded by benchmarking/reproduce_table.py.
+# These belong to their original authors (Wallhack/Zenodo, SignFi, Widar) and
+# must not be redistributed under this repository's license.
+benchmarking/data/
